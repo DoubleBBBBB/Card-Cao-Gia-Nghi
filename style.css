@@ -9,7 +9,7 @@
 body{
   height: 100vh;
   background: linear-gradient(to right, #9b59b6, #3498db,#82589F);
-  background-size: cover;
+  background-size: 600% 600%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,6 +21,7 @@ body{
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 20px 20px 20px rgba( 0,0,0,0.5);
+  background-size: 600% 600%;
 }
 
 .card-header{
